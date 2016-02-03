@@ -436,4 +436,976 @@
 [2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset: 'A:/Epic Games/4.10/Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset' is outside repository
 [2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset: 'A:/Epic Games/4.10/Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset' is outside repository
 [2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset: 'A:/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset' is outside repository
-[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/T
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset: 'A:/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset' is outside repository
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset: 'A:/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset' is outside repository
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset: 'A:/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset' is outside repository
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset: 'A:/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset' is outside repository
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset: 'A:/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset' is outside repository
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset: 'A:/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset' is outside repository
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset: 'A:/Epic Games/4.10/Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset' is outside repository
+[2016.02.03-04.58.26:399][359]SourceControl: Info fatal: A:/Epic Games/4.10/Engine/Content/: 'A:/Epic Games/4.10/Engine/Content/' is outside repository
+[2016.02.03-04.58.46:201][359]LogSourceControl: FGitCheckInWorker: commit successful
+[2016.02.03-04.58.46:310][359]SourceControl:Error: Error fatal: cannot do a partial commit during a merge.
+[2016.02.03-04.58.46:319][359]SourceControl: Info Submitted revision.
+[2016.02.03-05.04.06:572][ 60]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.04.06:616][ 60]LogBlueprint:Error: [compiler BP_Character] Error The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2016.02.03-05.04.06:732][ 60]LogBlueprint:Warning: [compiler BP_Character] Warning [0798.94] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 157 ms]
+[2016.02.03-05.04.06:732][ 60]BlueprintEditorCompileResults:Error: Error The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2016.02.03-05.04.06:732][ 60]BlueprintEditorCompileResults:Warning: Warning [0798.94] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 157 ms]
+[2016.02.03-05.04.26:109][198]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.04.26:219][198]BlueprintEditorCompileResults: Info [0818.43] Compile of BP_Character successful! [in 109 ms]
+[2016.02.03-05.04.26:852][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.04.26:852][256]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:04:26 PM)
+[2016.02.03-05.04.26:852][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.04.26:857][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004305s)
+[2016.02.03-05.04.26:857][256]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.04.26:857][256]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2016.02.03-05.04.26:858][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005420s)
+[2016.02.03-05.04.26:884][256]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.04.26:890][256]LogInit: FAudioDevice initialized.
+[2016.02.03-05.04.26:977][256]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.04.26:985][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.04.26
+[2016.02.03-05.04.26:985][256]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.04.26:985][256]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.04.26:985][256]LogWorld: Bringing up level for play took: 0.007000
+[2016.02.03-05.04.26:987][256]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.04.27:030][256]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.962
+[2016.02.03-05.04.29:330][455]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A0F2D1C0
+[2016.02.03-05.04.54:648][601]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_00' took 0.024
+[2016.02.03-05.04.54:654][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BP_Character] ([1] browsable assets)...
+[2016.02.03-05.04.54:654][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2016.02.03-05.04.54:654][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/BP_Character_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.02.03-05.04.54:769][601]LogSavePackage: Save=109.518539ms
+[2016.02.03-05.04.54:769][601]LogSavePackage: Moving 'D:/Unreal Projects/Paper2d/Saved/BP_Character_Auto1AB3570F94DCA3E2AF62E80B0DBEA1952.tmp' to 'D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/BP_Character_Auto1.uasset'
+[2016.02.03-05.04.54:773][601]LogSavePackage: Total save time: 118.598904ms
+[2016.02.03-05.04.54:773][601]LogSavePackage:Display: Finished SavePackage D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/BP_Character_Auto1.uasset
+[2016.02.03-05.04.54:773][601]LogFileHelpers: Auto-saving content packages took 0.124
+[2016.02.03-05.05.45:742][ 57]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.02.03-05.05.45:754][ 57]LogPlayLevel: [PlayLevel] Compiling BP_Character before play...
+[2016.02.03-05.05.45:838][ 57]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (2 blueprints)
+[2016.02.03-05.05.45:839][ 57]LogPlayLevel: [PlayLevel] Compiling Widget_HUD before play...
+[2016.02.03-05.05.45:886][ 57]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (2 blueprints)
+[2016.02.03-05.05.45:910][ 57]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:05:45 PM)
+[2016.02.03-05.05.45:910][ 57]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.05.45:914][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003629s)
+[2016.02.03-05.05.45:915][ 57]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.05.45:915][ 57]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2016.02.03-05.05.45:915][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004818s)
+[2016.02.03-05.05.45:941][ 57]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.05.45:944][ 57]LogInit: FAudioDevice initialized.
+[2016.02.03-05.05.46:020][ 57]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.05.46:028][ 57]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.05.46
+[2016.02.03-05.05.46:028][ 57]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.05.46:028][ 57]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.05.46:028][ 57]LogWorld: Bringing up level for play took: 0.006791
+[2016.02.03-05.05.46:030][ 57]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.05.46:039][ 57]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.028
+[2016.02.03-05.05.47:420][169]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6D265A160
+[2016.02.03-05.05.48:323][245]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.05.48:434][245]BlueprintEditorCompileResults: Info [0900.64] Compile of BP_Character successful! [in 110 ms]
+[2016.02.03-05.05.49:100][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.05.49:100][311]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:05:49 PM)
+[2016.02.03-05.05.49:100][311]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.05.49:104][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004247s)
+[2016.02.03-05.05.49:105][311]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.05.49:105][311]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2016.02.03-05.05.49:105][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005155s)
+[2016.02.03-05.05.49:132][311]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.05.49:135][311]LogInit: FAudioDevice initialized.
+[2016.02.03-05.05.49:227][311]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.05.49:234][311]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.05.49
+[2016.02.03-05.05.49:234][311]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.05.49:234][311]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.05.49:234][311]LogWorld: Bringing up level for play took: 0.006429
+[2016.02.03-05.05.49:236][311]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.05.49:273][311]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.794
+[2016.02.03-05.05.51:581][517]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A7814E00
+[2016.02.03-05.06.32:294][ 54]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.06.32:329][ 54]LogBlueprint:Error: [compiler BP_Character] Error The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2016.02.03-05.06.32:446][ 54]LogBlueprint:Warning: [compiler BP_Character] Warning [0944.66] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 151 ms]
+[2016.02.03-05.06.32:446][ 54]BlueprintEditorCompileResults:Error: Error The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2016.02.03-05.06.32:446][ 54]BlueprintEditorCompileResults:Warning: Warning [0944.66] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 151 ms]
+[2016.02.03-05.07.06:374][404]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.07.06:478][404]BlueprintEditorCompileResults: Info [0978.69] Compile of BP_Character successful! [in 104 ms]
+[2016.02.03-05.07.08:454][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.07.08:455][618]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:07:08 PM)
+[2016.02.03-05.07.08:455][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.07.08:459][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003860s)
+[2016.02.03-05.07.08:459][618]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.07.08:459][618]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2016.02.03-05.07.08:459][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004787s)
+[2016.02.03-05.07.08:485][618]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.07.08:488][618]LogInit: FAudioDevice initialized.
+[2016.02.03-05.07.08:571][618]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.07.08:578][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.07.08
+[2016.02.03-05.07.08:578][618]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.07.08:578][618]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.07.08:579][618]LogWorld: Bringing up level for play took: 0.006966
+[2016.02.03-05.07.08:580][618]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.07.08:617][618]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.549
+[2016.02.03-05.07.12:099][951]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A34C1C60
+[2016.02.03-05.09.01:068][538]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.09.01:187][538]BlueprintEditorCompileResults: Info [1093.40] Compile of BP_Character successful! [in 119 ms]
+[2016.02.03-05.09.01:817][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.09.01:817][604]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:09:01 PM)
+[2016.02.03-05.09.01:817][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.09.01:821][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004311s)
+[2016.02.03-05.09.01:822][604]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.09.01:822][604]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2016.02.03-05.09.01:822][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005690s)
+[2016.02.03-05.09.01:849][604]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.09.01:853][604]LogInit: FAudioDevice initialized.
+[2016.02.03-05.09.01:944][604]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.09.01:951][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.09.01
+[2016.02.03-05.09.01:951][604]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.09.01:951][604]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.09.01:952][604]LogWorld: Bringing up level for play took: 0.006728
+[2016.02.03-05.09.01:953][604]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.09.01:983][604]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.085
+[2016.02.03-05.09.05:018][944]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A1222F20
+[2016.02.03-05.09.35:272][395]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.09.35:385][395]BlueprintEditorCompileResults: Info [1127.59] Compile of BP_Character successful! [in 112 ms]
+[2016.02.03-05.09.36:136][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.09.36:137][476]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:09:36 PM)
+[2016.02.03-05.09.36:137][476]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.09.36:141][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003934s)
+[2016.02.03-05.09.36:141][476]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.09.36:142][476]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2016.02.03-05.09.36:142][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005072s)
+[2016.02.03-05.09.36:167][476]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.09.36:172][476]LogInit: FAudioDevice initialized.
+[2016.02.03-05.09.36:255][476]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.09.36:262][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.09.36
+[2016.02.03-05.09.36:262][476]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.09.36:262][476]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.09.36:263][476]LogWorld: Bringing up level for play took: 0.006474
+[2016.02.03-05.09.36:264][476]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.09.36:295][476]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.227
+[2016.02.03-05.09.39:779][873]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A0F2DB20
+[2016.02.03-05.10.46:028][236]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.10.46:135][236]BlueprintEditorCompileResults: Info [1198.34] Compile of BP_Character successful! [in 106 ms]
+[2016.02.03-05.10.47:676][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.10.47:676][413]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:10:47 PM)
+[2016.02.03-05.10.47:676][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.10.47:680][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004092s)
+[2016.02.03-05.10.47:681][413]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.10.47:681][413]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2016.02.03-05.10.47:681][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005332s)
+[2016.02.03-05.10.47:706][413]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.10.47:710][413]LogInit: FAudioDevice initialized.
+[2016.02.03-05.10.47:795][413]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.10.47:802][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.10.47
+[2016.02.03-05.10.47:802][413]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.10.47:802][413]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.10.47:802][413]LogWorld: Bringing up level for play took: 0.006702
+[2016.02.03-05.10.47:804][413]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.10.47:834][413]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.234
+[2016.02.03-05.10.51:526][845]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6FE4C7380
+[2016.02.03-05.11.26:039][881]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.11.26:071][881]LogBlueprint:Error: [compiler BP_Character] Error The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2016.02.03-05.11.26:187][881]LogBlueprint:Warning: [compiler BP_Character] Warning [1238.40] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 148 ms]
+[2016.02.03-05.11.26:187][881]BlueprintEditorCompileResults:Error: Error The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2016.02.03-05.11.26:187][881]BlueprintEditorCompileResults:Warning: Warning [1238.40] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 148 ms]
+[2016.02.03-05.11.39:315][395]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.11.39:425][395]BlueprintEditorCompileResults: Info [1251.63] Compile of BP_Character successful! [in 109 ms]
+[2016.02.03-05.11.40:539][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.11.40:539][521]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:11:40 PM)
+[2016.02.03-05.11.40:540][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.11.40:543][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003751s)
+[2016.02.03-05.11.40:544][521]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.11.40:544][521]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2016.02.03-05.11.40:544][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004752s)
+[2016.02.03-05.11.40:569][521]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.11.40:573][521]LogInit: FAudioDevice initialized.
+[2016.02.03-05.11.40:652][521]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.11.40:660][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.11.40
+[2016.02.03-05.11.40:660][521]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.11.40:660][521]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.11.40:661][521]LogWorld: Bringing up level for play took: 0.006667
+[2016.02.03-05.11.40:663][521]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.11.40:696][521]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.628
+[2016.02.03-05.11.43:743][876]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6FE4C6520
+[2016.02.03-05.11.53:121][943]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.11.53:231][943]BlueprintEditorCompileResults: Info [1265.44] Compile of BP_Character successful! [in 109 ms]
+[2016.02.03-05.11.53:809][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.11.53:810][  4]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:11:53 PM)
+[2016.02.03-05.11.53:810][  4]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.11.53:814][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003786s)
+[2016.02.03-05.11.53:814][  4]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.11.53:814][  4]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2016.02.03-05.11.53:814][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004718s)
+[2016.02.03-05.11.53:840][  4]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.11.53:844][  4]LogInit: FAudioDevice initialized.
+[2016.02.03-05.11.53:931][  4]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.11.53:938][  4]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.11.53
+[2016.02.03-05.11.53:939][  4]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.11.53:939][  4]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.11.53:939][  4]LogWorld: Bringing up level for play took: 0.006886
+[2016.02.03-05.11.53:941][  4]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.11.53:973][  4]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.095
+[2016.02.03-05.11.57:012][350]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6FE4C53A0
+[2016.02.03-05.13.22:778][819]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.02.03-05.13.22:790][819]LogPlayLevel: [PlayLevel] Compiling BP_Character before play...
+[2016.02.03-05.13.22:868][819]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (2 blueprints)
+[2016.02.03-05.13.22:869][819]LogPlayLevel: [PlayLevel] Compiling Widget_HUD before play...
+[2016.02.03-05.13.22:918][819]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (2 blueprints)
+[2016.02.03-05.13.22:941][819]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:13:22 PM)
+[2016.02.03-05.13.22:942][819]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.13.22:945][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003703s)
+[2016.02.03-05.13.22:946][819]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.13.22:946][819]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2016.02.03-05.13.22:946][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004699s)
+[2016.02.03-05.13.22:971][819]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.13.22:974][819]LogInit: FAudioDevice initialized.
+[2016.02.03-05.13.23:050][819]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.13.23:057][819]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.13.23
+[2016.02.03-05.13.23:057][819]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.13.23:057][819]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.13.23:057][819]LogWorld: Bringing up level for play took: 0.006730
+[2016.02.03-05.13.23:059][819]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.13.23:066][819]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.998
+[2016.02.03-05.13.28:354][308]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E70C1979C0
+[2016.02.03-05.13.42:515][883]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.13.42:550][883]LogBlueprint:Error: [compiler BP_Character] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2016.02.03-05.13.42:674][883]LogBlueprint:Warning: [compiler BP_Character] Warning [1374.88] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 158 ms]
+[2016.02.03-05.13.42:674][883]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2016.02.03-05.13.42:674][883]BlueprintEditorCompileResults:Warning: Warning [1374.88] Compile of BP_Character failed. 1 Fatal Issue(s) 0 Warning(s) [in 158 ms]
+[2016.02.03-05.13.43:189][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.13.56:643][ 56]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.13.56:755][ 56]BlueprintEditorCompileResults: Info [1388.97] Compile of BP_Character successful! [in 112 ms]
+[2016.02.03-05.13.57:419][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.13.57:419][128]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:13:57 PM)
+[2016.02.03-05.13.57:419][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.13.57:423][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2016.02.03-05.13.57:424][128]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.13.57:424][128]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2016.02.03-05.13.57:424][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004621s)
+[2016.02.03-05.13.57:449][128]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.13.57:452][128]LogInit: FAudioDevice initialized.
+[2016.02.03-05.13.57:547][128]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.13.57:554][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.13.57
+[2016.02.03-05.13.57:554][128]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.13.57:554][128]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.13.57:554][128]LogWorld: Bringing up level for play took: 0.006706
+[2016.02.03-05.13.57:556][128]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.13.57:589][128]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.479
+[2016.02.03-05.14.01:122][517]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6C6104A40
+[2016.02.03-05.14.04:154][854]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.14.04:264][854]BlueprintEditorCompileResults: Info [1396.47] Compile of BP_Character successful! [in 109 ms]
+[2016.02.03-05.14.04:967][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.14.04:967][930]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:14:04 PM)
+[2016.02.03-05.14.04:967][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.14.04:971][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003989s)
+[2016.02.03-05.14.04:972][930]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.14.04:972][930]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2016.02.03-05.14.04:972][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005269s)
+[2016.02.03-05.14.04:997][930]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.14.05:001][930]LogInit: FAudioDevice initialized.
+[2016.02.03-05.14.05:088][930]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.14.05:095][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.14.05
+[2016.02.03-05.14.05:095][930]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.14.05:096][930]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.14.05:096][930]LogWorld: Bringing up level for play took: 0.006553
+[2016.02.03-05.14.05:098][930]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.14.05:130][930]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 1.062
+[2016.02.03-05.14.17:530][339]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E7104A7C40
+[2016.02.03-05.14.24:726][156]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.14.24:835][156]BlueprintEditorCompileResults: Info [1417.04] Compile of BP_Character successful! [in 108 ms]
+[2016.02.03-05.14.25:793][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.14.25:793][262]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:14:25 PM)
+[2016.02.03-05.14.25:794][262]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.14.25:797][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003779s)
+[2016.02.03-05.14.25:798][262]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.14.25:798][262]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2016.02.03-05.14.25:798][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004793s)
+[2016.02.03-05.14.25:823][262]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.14.25:826][262]LogInit: FAudioDevice initialized.
+[2016.02.03-05.14.25:924][262]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.14.25:932][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.14.25
+[2016.02.03-05.14.25:932][262]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.14.25:932][262]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.14.25:932][262]LogWorld: Bringing up level for play took: 0.006891
+[2016.02.03-05.14.25:934][262]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.14.25:969][262]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.098
+[2016.02.03-05.14.35:353][286]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A1487880
+[2016.02.03-05.14.43:335][173]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.14.43:449][173]BlueprintEditorCompileResults: Info [1435.66] Compile of BP_Character successful! [in 113 ms]
+[2016.02.03-05.14.44:357][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.14.44:358][273]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:14:44 PM)
+[2016.02.03-05.14.44:358][273]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.14.44:361][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003607s)
+[2016.02.03-05.14.44:362][273]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.14.44:362][273]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2016.02.03-05.14.44:362][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004809s)
+[2016.02.03-05.14.44:388][273]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.14.44:392][273]LogInit: FAudioDevice initialized.
+[2016.02.03-05.14.44:489][273]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.14.44:497][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.14.44
+[2016.02.03-05.14.44:497][273]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.14.44:497][273]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.14.44:498][273]LogWorld: Bringing up level for play took: 0.006996
+[2016.02.03-05.14.44:500][273]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.14.44:533][273]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.466
+[2016.02.03-05.14.50:010][847]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A20471A0
+[2016.02.03-05.19.40:238][549]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.19.40:369][549]BlueprintEditorCompileResults: Info [1732.58] Compile of BP_Character successful! [in 131 ms]
+[2016.02.03-05.19.41:493][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.19.41:493][673]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:19:41 PM)
+[2016.02.03-05.19.41:493][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.19.41:497][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2016.02.03-05.19.41:498][673]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.19.41:498][673]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2016.02.03-05.19.41:498][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005095s)
+[2016.02.03-05.19.41:523][673]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.19.41:527][673]LogInit: FAudioDevice initialized.
+[2016.02.03-05.19.41:622][673]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.19.41:630][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.19.41
+[2016.02.03-05.19.41:630][673]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.19.41:630][673]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.19.41:630][673]LogWorld: Bringing up level for play took: 0.006924
+[2016.02.03-05.19.41:633][673]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.19.41:672][673]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.395
+[2016.02.03-05.19.54:890][ 62]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E71BD944A0
+[2016.02.03-05.20.20:109][ 15]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.20.20:230][ 15]BlueprintEditorCompileResults: Info [1772.44] Compile of BP_Character successful! [in 120 ms]
+[2016.02.03-05.20.21:274][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.20.21:274][130]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:20:21 PM)
+[2016.02.03-05.20.21:274][130]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.20.21:278][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003707s)
+[2016.02.03-05.20.21:279][130]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.20.21:279][130]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2016.02.03-05.20.21:279][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004708s)
+[2016.02.03-05.20.21:305][130]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.20.21:308][130]LogInit: FAudioDevice initialized.
+[2016.02.03-05.20.21:386][130]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.20.21:394][130]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.20.21
+[2016.02.03-05.20.21:394][130]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.20.21:394][130]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.20.21:394][130]LogWorld: Bringing up level for play took: 0.006860
+[2016.02.03-05.20.21:396][130]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.20.21:432][130]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.636
+[2016.02.03-05.20.26:484][630]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6FC8F51C0
+[2016.02.03-05.21.04:130][ 19]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.21.04:251][ 19]BlueprintEditorCompileResults: Info [1816.46] Compile of BP_Character successful! [in 120 ms]
+[2016.02.03-05.21.04:903][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.21.04:903][ 89]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:21:04 PM)
+[2016.02.03-05.21.04:903][ 89]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.21.04:906][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003591s)
+[2016.02.03-05.21.04:907][ 89]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.21.04:907][ 89]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2016.02.03-05.21.04:907][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004661s)
+[2016.02.03-05.21.04:933][ 89]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.21.04:936][ 89]LogInit: FAudioDevice initialized.
+[2016.02.03-05.21.05:020][ 89]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.21.05:027][ 89]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.21.05
+[2016.02.03-05.21.05:027][ 89]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.21.05:028][ 89]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.21.05:028][ 89]LogWorld: Bringing up level for play took: 0.006577
+[2016.02.03-05.21.05:030][ 89]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.21.05:062][ 89]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.994
+[2016.02.03-05.21.14:901][168]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A2046F20
+[2016.02.03-05.22.36:271][679]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.22.36:406][679]BlueprintEditorCompileResults: Info [1908.62] Compile of BP_Character successful! [in 134 ms]
+[2016.02.03-05.22.37:134][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.22.37:134][754]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:22:37 PM)
+[2016.02.03-05.22.37:135][754]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.22.37:139][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004129s)
+[2016.02.03-05.22.37:139][754]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.22.37:140][754]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2016.02.03-05.22.37:140][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005157s)
+[2016.02.03-05.22.37:167][754]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.22.37:171][754]LogInit: FAudioDevice initialized.
+[2016.02.03-05.22.37:262][754]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.22.37:269][754]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.22.37
+[2016.02.03-05.22.37:270][754]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.22.37:270][754]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.22.37:270][754]LogWorld: Bringing up level for play took: 0.007278
+[2016.02.03-05.22.37:272][754]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.22.37:316][754]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.752
+[2016.02.03-05.22.43:192][334]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E72335E0C0
+[2016.02.03-05.23.24:133][  2]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.23.24:250][  2]BlueprintEditorCompileResults: Info [1956.46] Compile of BP_Character successful! [in 116 ms]
+[2016.02.03-05.23.24:978][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.23.24:978][ 75]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:23:24 PM)
+[2016.02.03-05.23.24:979][ 75]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.23.24:982][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003647s)
+[2016.02.03-05.23.24:983][ 75]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.23.24:983][ 75]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2016.02.03-05.23.24:983][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004636s)
+[2016.02.03-05.23.25:009][ 75]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.23.25:013][ 75]LogInit: FAudioDevice initialized.
+[2016.02.03-05.23.25:100][ 75]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.23.25:108][ 75]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.23.25
+[2016.02.03-05.23.25:108][ 75]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.23.25:108][ 75]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.23.25:109][ 75]LogWorld: Bringing up level for play took: 0.007107
+[2016.02.03-05.23.25:111][ 75]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.23.25:148][ 75]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 1.081
+[2016.02.03-05.23.32:747][791]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E737083740
+[2016.02.03-05.24.03:812][387]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.24.03:936][387]BlueprintEditorCompileResults: Info [1996.15] Compile of BP_Character successful! [in 124 ms]
+[2016.02.03-05.24.05:329][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.24.05:329][544]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:24:05 PM)
+[2016.02.03-05.24.05:329][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.24.05:333][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004217s)
+[2016.02.03-05.24.05:334][544]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.24.05:334][544]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2016.02.03-05.24.05:334][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005412s)
+[2016.02.03-05.24.05:361][544]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.24.05:364][544]LogInit: FAudioDevice initialized.
+[2016.02.03-05.24.05:448][544]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.24.05:456][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.24.05
+[2016.02.03-05.24.05:456][544]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.24.05:456][544]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.24.05:456][544]LogWorld: Bringing up level for play took: 0.007034
+[2016.02.03-05.24.05:458][544]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.24.05:493][544]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.574
+[2016.02.03-05.24.15:589][593]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E72335C400
+[2016.02.03-05.24.18:802][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.24.18:803][948]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:24:18 PM)
+[2016.02.03-05.24.18:803][948]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.24.18:807][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003861s)
+[2016.02.03-05.24.18:807][948]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.24.18:808][948]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2016.02.03-05.24.18:808][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004957s)
+[2016.02.03-05.24.18:833][948]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.24.18:836][948]LogInit: FAudioDevice initialized.
+[2016.02.03-05.24.18:925][948]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.24.18:932][948]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.24.18
+[2016.02.03-05.24.18:933][948]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.24.18:933][948]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.24.18:933][948]LogWorld: Bringing up level for play took: 0.006855
+[2016.02.03-05.24.18:935][948]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.24.18:971][948]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.903
+[2016.02.03-05.24.23:039][367]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E724037920
+[2016.02.03-05.24.36:797][934]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.24.36:917][934]BlueprintEditorCompileResults: Info [2029.13] Compile of BP_Character successful! [in 120 ms]
+[2016.02.03-05.24.37:652][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.24.37:652][ 13]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:24:37 PM)
+[2016.02.03-05.24.37:652][ 13]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.24.37:656][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003732s)
+[2016.02.03-05.24.37:657][ 13]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.24.37:657][ 13]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2016.02.03-05.24.37:657][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004885s)
+[2016.02.03-05.24.37:683][ 13]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.24.37:686][ 13]LogInit: FAudioDevice initialized.
+[2016.02.03-05.24.37:773][ 13]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.24.37:781][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.24.37
+[2016.02.03-05.24.37:781][ 13]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.24.37:781][ 13]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.24.37:781][ 13]LogWorld: Bringing up level for play took: 0.006756
+[2016.02.03-05.24.37:783][ 13]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.24.37:819][ 13]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.248
+[2016.02.03-05.24.42:415][491]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E70CF244A0
+[2016.02.03-05.25.01:632][695]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.25.01:750][695]BlueprintEditorCompileResults: Info [2053.96] Compile of BP_Character successful! [in 117 ms]
+[2016.02.03-05.25.02:519][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.25.02:519][777]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:25:02 PM)
+[2016.02.03-05.25.02:519][777]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.25.02:523][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003628s)
+[2016.02.03-05.25.02:523][777]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.25.02:524][777]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2016.02.03-05.25.02:524][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004884s)
+[2016.02.03-05.25.02:549][777]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.25.02:553][777]LogInit: FAudioDevice initialized.
+[2016.02.03-05.25.02:644][777]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.25.02:651][777]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.25.02
+[2016.02.03-05.25.02:651][777]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.25.02:652][777]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.25.02:652][777]LogWorld: Bringing up level for play took: 0.006707
+[2016.02.03-05.25.02:654][777]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.25.02:690][777]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.622
+[2016.02.03-05.25.10:179][562]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6FBE6E020
+[2016.02.03-05.26.23:344][ 47]BlueprintLog: New page: Compile Widget_HUD
+[2016.02.03-05.26.23:463][ 47]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed 
+[2016.02.03-05.26.23:463][ 47]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed 
+[2016.02.03-05.26.23:463][ 47]BlueprintEditorCompileResults: Info [2135.67] Compile of Widget_HUD successful! [in 118 ms]
+[2016.02.03-05.26.24:149][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.26.24:149][125]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:26:24 PM)
+[2016.02.03-05.26.24:149][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.26.24:153][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004077s)
+[2016.02.03-05.26.24:154][125]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.26.24:154][125]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2016.02.03-05.26.24:154][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005092s)
+[2016.02.03-05.26.24:180][125]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.26.24:184][125]LogInit: FAudioDevice initialized.
+[2016.02.03-05.26.24:256][125]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.26.24:264][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.26.24
+[2016.02.03-05.26.24:264][125]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.26.24:264][125]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.26.24:264][125]LogWorld: Bringing up level for play took: 0.006953
+[2016.02.03-05.26.24:271][125]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.26.24:279][125]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.211
+[2016.02.03-05.26.33:736][251]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E75B662AC0
+[2016.02.03-05.26.45:889][577]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.26.46:011][577]BlueprintEditorCompileResults: Info [2158.22] Compile of BP_Character successful! [in 121 ms]
+[2016.02.03-05.26.48:034][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.26.48:034][796]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:26:48 PM)
+[2016.02.03-05.26.48:035][796]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.26.48:038][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003759s)
+[2016.02.03-05.26.48:039][796]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.26.48:039][796]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2016.02.03-05.26.48:039][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004625s)
+[2016.02.03-05.26.48:065][796]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.26.48:069][796]LogInit: FAudioDevice initialized.
+[2016.02.03-05.26.48:161][796]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.26.48:168][796]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.26.48
+[2016.02.03-05.26.48:168][796]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.26.48:168][796]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.26.48:169][796]LogWorld: Bringing up level for play took: 0.006553
+[2016.02.03-05.26.48:171][796]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.26.48:203][796]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.135
+[2016.02.03-05.26.57:138][731]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6FBE6C180
+[2016.02.03-05.27.15:164][775]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.27.15:282][775]BlueprintEditorCompileResults: Info [2187.49] Compile of BP_Character successful! [in 118 ms]
+[2016.02.03-05.27.16:077][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.27.16:077][852]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:27:16 PM)
+[2016.02.03-05.27.16:078][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.27.16:082][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003865s)
+[2016.02.03-05.27.16:082][852]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.27.16:082][852]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2016.02.03-05.27.16:083][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005004s)
+[2016.02.03-05.27.16:109][852]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.27.16:112][852]LogInit: FAudioDevice initialized.
+[2016.02.03-05.27.16:199][852]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.27.16:207][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.27.16
+[2016.02.03-05.27.16:207][852]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.27.16:207][852]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.27.16:208][852]LogWorld: Bringing up level for play took: 0.007063
+[2016.02.03-05.27.16:210][852]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.27.16:247][852]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.18
+[2016.02.03-05.27.22:066][394]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E75B48B740
+[2016.02.03-05.27.57:758][361]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.27.57:878][361]BlueprintEditorCompileResults: Info [2230.09] Compile of BP_Character successful! [in 120 ms]
+[2016.02.03-05.27.58:530][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.27.58:531][430]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:27:58 PM)
+[2016.02.03-05.27.58:531][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.27.58:535][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003970s)
+[2016.02.03-05.27.58:535][430]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.27.58:536][430]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2016.02.03-05.27.58:536][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005031s)
+[2016.02.03-05.27.58:562][430]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.27.58:565][430]LogInit: FAudioDevice initialized.
+[2016.02.03-05.27.58:651][430]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.27.58:658][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.27.58
+[2016.02.03-05.27.58:658][430]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.27.58:658][430]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.27.58:659][430]LogWorld: Bringing up level for play took: 0.006592
+[2016.02.03-05.27.58:661][430]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.27.58:692][430]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.625
+[2016.02.03-05.28.08:685][536]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A93BE2A0
+[2016.02.03-05.30.28:475][178]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.30.28:610][178]BlueprintEditorCompileResults: Info [2380.82] Compile of BP_Character successful! [in 134 ms]
+[2016.02.03-05.30.30:377][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.30.30:378][356]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:30:30 PM)
+[2016.02.03-05.30.30:378][356]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.30.30:382][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004147s)
+[2016.02.03-05.30.30:383][356]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.30.30:383][356]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2016.02.03-05.30.30:383][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005275s)
+[2016.02.03-05.30.30:410][356]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.30.30:414][356]LogInit: FAudioDevice initialized.
+[2016.02.03-05.30.30:506][356]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.30.30:513][356]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.30.30
+[2016.02.03-05.30.30:513][356]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.30.30:513][356]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.30.30:513][356]LogWorld: Bringing up level for play took: 0.006648
+[2016.02.03-05.30.30:515][356]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.30.30:549][356]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.481
+[2016.02.03-05.30.36:546][900]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E76C659440
+[2016.02.03-05.30.45:386][785]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.30.45:509][785]BlueprintEditorCompileResults: Info [2397.72] Compile of BP_Character successful! [in 123 ms]
+[2016.02.03-05.30.46:204][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.30.46:204][849]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:30:46 PM)
+[2016.02.03-05.30.46:204][849]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.30.46:208][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003888s)
+[2016.02.03-05.30.46:209][849]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.30.46:209][849]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2016.02.03-05.30.46:209][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004959s)
+[2016.02.03-05.30.46:237][849]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.30.46:240][849]LogInit: FAudioDevice initialized.
+[2016.02.03-05.30.46:339][849]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.30.46:346][849]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.30.46
+[2016.02.03-05.30.46:346][849]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.30.46:346][849]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.30.46:347][849]LogWorld: Bringing up level for play took: 0.006948
+[2016.02.03-05.30.46:349][849]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.30.46:385][849]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.317
+[2016.02.03-05.30.49:812][159]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E69DF13F60
+[2016.02.03-05.31.07:150][930]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.31.07:274][930]BlueprintEditorCompileResults: Info [2419.48] Compile of BP_Character successful! [in 123 ms]
+[2016.02.03-05.31.07:975][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.31.07:975][995]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:31:07 PM)
+[2016.02.03-05.31.07:975][995]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.31.07:979][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003716s)
+[2016.02.03-05.31.07:980][995]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.31.07:980][995]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2016.02.03-05.31.07:980][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004980s)
+[2016.02.03-05.31.08:008][995]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.31.08:011][995]LogInit: FAudioDevice initialized.
+[2016.02.03-05.31.08:103][995]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.31.08:110][995]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.31.08
+[2016.02.03-05.31.08:110][995]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.31.08:110][995]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.31.08:111][995]LogWorld: Bringing up level for play took: 0.006662
+[2016.02.03-05.31.08:112][995]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.31.08:149][995]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.081
+[2016.02.03-05.31.13:053][442]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A0F2DB20
+[2016.02.03-05.31.54:177][829]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.31.54:303][829]BlueprintEditorCompileResults: Info [2466.51] Compile of BP_Character successful! [in 125 ms]
+[2016.02.03-05.31.55:165][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.31.55:165][912]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:31:55 PM)
+[2016.02.03-05.31.55:165][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.31.55:169][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003860s)
+[2016.02.03-05.31.55:170][912]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.31.55:170][912]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2016.02.03-05.31.55:170][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004851s)
+[2016.02.03-05.31.55:197][912]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.31.55:200][912]LogInit: FAudioDevice initialized.
+[2016.02.03-05.31.55:290][912]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.31.55:297][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.31.55
+[2016.02.03-05.31.55:298][912]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.31.55:298][912]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.31.55:298][912]LogWorld: Bringing up level for play took: 0.006947
+[2016.02.03-05.31.55:300][912]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.31.55:337][912]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.731
+[2016.02.03-05.31.58:162][157]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E76F9376A0
+[2016.02.03-05.32.41:503][878]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.32.41:626][878]BlueprintEditorCompileResults: Info [2513.84] Compile of BP_Character successful! [in 122 ms]
+[2016.02.03-05.32.42:887][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.32.42:887][ 13]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:32:42 PM)
+[2016.02.03-05.32.42:887][ 13]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.32.42:891][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004036s)
+[2016.02.03-05.32.42:892][ 13]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.32.42:892][ 13]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2016.02.03-05.32.42:892][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005277s)
+[2016.02.03-05.32.42:920][ 13]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.32.42:924][ 13]LogInit: FAudioDevice initialized.
+[2016.02.03-05.32.43:012][ 13]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.32.43:019][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.32.43
+[2016.02.03-05.32.43:019][ 13]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.32.43:019][ 13]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.32.43:019][ 13]LogWorld: Bringing up level for play took: 0.006672
+[2016.02.03-05.32.43:021][ 13]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.32.43:057][ 13]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.989
+[2016.02.03-05.32.46:960][397]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E71C92E5C0
+[2016.02.03-05.32.52:590][ 18]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.32.52:713][ 18]BlueprintEditorCompileResults: Info [2524.92] Compile of BP_Character successful! [in 123 ms]
+[2016.02.03-05.32.53:288][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.32.53:288][ 76]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:32:53 PM)
+[2016.02.03-05.32.53:289][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.32.53:293][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004044s)
+[2016.02.03-05.32.53:293][ 76]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.32.53:294][ 76]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2016.02.03-05.32.53:294][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005029s)
+[2016.02.03-05.32.53:321][ 76]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.32.53:325][ 76]LogInit: FAudioDevice initialized.
+[2016.02.03-05.32.53:422][ 76]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.32.53:429][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.32.53
+[2016.02.03-05.32.53:429][ 76]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.32.53:430][ 76]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.32.53:430][ 76]LogWorld: Bringing up level for play took: 0.006537
+[2016.02.03-05.32.53:432][ 76]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.32.53:466][ 76]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.601
+[2016.02.03-05.32.55:361][259]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E7643C72E0
+[2016.02.03-05.34.01:065][134]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.34.01:191][134]BlueprintEditorCompileResults: Info [2593.40] Compile of BP_Character successful! [in 126 ms]
+[2016.02.03-05.34.01:777][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.34.01:777][185]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:34:01 PM)
+[2016.02.03-05.34.01:778][185]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.34.01:782][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003936s)
+[2016.02.03-05.34.01:783][185]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.34.01:783][185]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2016.02.03-05.34.01:783][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.005299s)
+[2016.02.03-05.34.01:811][185]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.34.01:815][185]LogInit: FAudioDevice initialized.
+[2016.02.03-05.34.01:910][185]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.34.01:917][185]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.34.01
+[2016.02.03-05.34.01:917][185]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.34.01:917][185]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.34.01:917][185]LogWorld: Bringing up level for play took: 0.006606
+[2016.02.03-05.34.01:919][185]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.34.01:958][185]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.11
+[2016.02.03-05.34.08:068][716]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E69DF10860
+[2016.02.03-05.34.22:607][158]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.34.22:734][158]BlueprintEditorCompileResults: Info [2614.94] Compile of BP_Character successful! [in 126 ms]
+[2016.02.03-05.34.23:381][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.34.23:381][216]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:34:23 PM)
+[2016.02.03-05.34.23:381][216]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.34.23:385][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003930s)
+[2016.02.03-05.34.23:386][216]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.34.23:386][216]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2016.02.03-05.34.23:386][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004989s)
+[2016.02.03-05.34.23:413][216]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.34.23:417][216]LogInit: FAudioDevice initialized.
+[2016.02.03-05.34.23:509][216]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.34.23:516][216]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.34.23
+[2016.02.03-05.34.23:516][216]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.34.23:516][216]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.34.23:517][216]LogWorld: Bringing up level for play took: 0.007000
+[2016.02.03-05.34.23:519][216]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.34.23:560][216]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 -0.508
+[2016.02.03-05.34.30:316][798]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E76F9356C0
+[2016.02.03-05.34.44:559][215]BlueprintLog: New page: Compile BP_Character
+[2016.02.03-05.34.44:684][215]BlueprintEditorCompileResults: Info [2636.89] Compile of BP_Character successful! [in 125 ms]
+[2016.02.03-05.34.45:920][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.03-05.34.45:921][342]PIE: New page: PIE session: Level_00 (Feb 2, 2016, 7:34:45 PM)
+[2016.02.03-05.34.45:921][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_00
+[2016.02.03-05.34.45:925][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003870s)
+[2016.02.03-05.34.45:925][342]LogAIModule: Creating AISystem for world Level_00
+[2016.02.03-05.34.45:925][342]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2016.02.03-05.34.45:926][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_00.Level_00 to /Game/Maps/UEDPIE_0_Level_00.Level_00 (0.004943s)
+[2016.02.03-05.34.45:953][342]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.03-05.34.45:956][342]LogInit: FAudioDevice initialized.
+[2016.02.03-05.34.46:043][342]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.02.03-05.34.46:050][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.02.03-00.34.46
+[2016.02.03-05.34.46:050][342]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameSession_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.34.46:050][342]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_Level_00.Level_00:PersistentLevel.GameNetworkManager_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.03-05.34.46:051][342]LogWorld: Bringing up level for play took: 0.006635
+[2016.02.03-05.34.46:053][342]PIE:Warning: Warning The widget 'Widget_HUD_C' was already added to the screen.
+[2016.02.03-05.34.46:092][342]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Level_00 0.025
+[2016.02.03-05.34.52:048][883]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E781975080
+[2016.02.03-05.35.38:218][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_00' took 0.023
+[2016.02.03-05.35.38:223][ 47]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BP_Character] ([1] browsable assets)...
+[2016.02.03-05.35.38:223][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2016.02.03-05.35.38:223][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/BP_Character_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.02.03-05.35.38:344][ 47]LogSavePackage: Save=114.834846ms
+[2016.02.03-05.35.38:344][ 47]LogSavePackage: Moving 'D:/Unreal Projects/Paper2d/Saved/BP_Character_Auto2E440D58347BF544CDDE9A982D16E9D54.tmp' to 'D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/BP_Character_Auto2.uasset'
+[2016.02.03-05.35.38:375][ 47]LogSavePackage: Total save time: 151.108723ms
+[2016.02.03-05.35.38:375][ 47]LogSavePackage:Display: Finished SavePackage D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/BP_Character_Auto2.uasset
+[2016.02.03-05.35.38:379][ 47]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Widget_HUD] ([1] browsable assets)...
+[2016.02.03-05.35.38:379][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Widget_HUD]
+[2016.02.03-05.35.38:379][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Widget_HUD" FILE="D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/Widget_HUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.02.03-05.35.38:411][ 47]LogSavePackage: Save=23.050575ms
+[2016.02.03-05.35.38:411][ 47]LogSavePackage: Moving 'D:/Unreal Projects/Paper2d/Saved/Widget_HUD_Auto214EDFE4848EE70CD0C9E7D934B26F8F0.tmp' to 'D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/Widget_HUD_Auto2.uasset'
+[2016.02.03-05.35.38:412][ 47]LogSavePackage: Total save time: 27.763329ms
+[2016.02.03-05.35.38:412][ 47]LogSavePackage:Display: Finished SavePackage D:/Unreal Projects/Paper2d/Saved/Autosaves/Game/Blueprint/Widget_HUD_Auto2.uasset
+[2016.02.03-05.35.38:412][ 47]LogFileHelpers: Auto-saving content packages took 0.193
+[2016.02.03-05.35.41:945][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="D:/Unreal Projects/Paper2d/Content/Blueprint/BP_Character.uasset" SILENT=true
+[2016.02.03-05.35.42:092][367]LogSavePackage: Save=144.133560ms
+[2016.02.03-05.35.42:092][367]LogSavePackage: Moving 'D:/Unreal Projects/Paper2d/Saved/BP_Character08CFDB334848C278348444A8F3A20A75.tmp' to 'D:/Unreal Projects/Paper2d/Content/Blueprint/BP_Character.uasset'
+[2016.02.03-05.35.42:094][367]LogSavePackage: Total save time: 148.484904ms
+[2016.02.03-05.35.42:094][367]LogSavePackage:Display: Finished SavePackage D:/Unreal Projects/Paper2d/Content/Blueprint/BP_Character.uasset
+[2016.02.03-05.35.42:101][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Widget_HUD" FILE="D:/Unreal Projects/Paper2d/Content/Blueprint/Widget_HUD.uasset" SILENT=true
+[2016.02.03-05.35.42:127][367]LogSavePackage: Save=23.007809ms
+[2016.02.03-05.35.42:127][367]LogSavePackage: Moving 'D:/Unreal Projects/Paper2d/Saved/Widget_HUD0F1298BD4657E9FE7939AE83C54F0C18.tmp' to 'D:/Unreal Projects/Paper2d/Content/Blueprint/Widget_HUD.uasset'
+[2016.02.03-05.35.42:128][367]LogSavePackage: Total save time: 25.835820ms
+[2016.02.03-05.35.42:128][367]LogSavePackage:Display: Finished SavePackage D:/Unreal Projects/Paper2d/Content/Blueprint/Widget_HUD.uasset
+[2016.02.03-05.35.45:335][619]Cmd: QUIT_EDITOR
+[2016.02.03-05.35.45:490][619]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.02.03-05.35.46:004][619]LogExit: Preparing to exit.
+[2016.02.03-05.35.46:674][619]LogExit: Editor shut down
+[2016.02.03-05.35.46:675][619]LogExit: Transaction tracking system shut down
+[2016.02.03-05.35.46:687][619]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6D40A8AE0
+[2016.02.03-05.35.46:688][619]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6EE937880
+[2016.02.03-05.35.46:693][619]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6D2715B20
+[2016.02.03-05.35.46:694][619]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6D2714900
+[2016.02.03-05.35.46:697][619]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6A8636DE0
+[2016.02.03-05.35.46:698][619]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6D2716D40
+[2016.02.03-05.35.46:699][619]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001E6D2717600
+[2016.02.03-05.35.46:990][619]LogExit: Object subsystem successfully closed.
+[2016.02.03-05.35.47:027][619]LogD3D11RHI: Shutdown
+[2016.02.03-05.35.47:027][619]LogD3D11RHI: CleanupD3DDevice
+[2016.02.03-05.35.47:091][619]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module SequencerWidgets (201)
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module CookingStats (200)
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module BlueprintGraph (199)
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module CrashTracker (198)
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module SceneOutliner (197)
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module SuperSearch (196)
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module WidgetCarousel (195)
+[2016.02.03-05.35.47:139][619]LogModuleManager: Shutting down and abandoning module AddContentDialog (194)
+[2016.02.03-05.35.47:147][619]LogModuleManager: Shutting down and abandoning module EditorWidgets (193)
+[2016.02.03-05.35.47:147][619]LogModuleManager: Shutting down and abandoning module CollectionManager (192)
+[2016.02.03-05.35.47:148][619]LogModuleManager: Shutting down and abandoning module StatsViewer (191)
+[2016.02.03-05.35.47:149][619]LogModuleManager: Shutting down and abandoning module FoliageEdit (190)
+[2016.02.03-05.35.47:149][619]LogModuleManager: Shutting down and abandoning module LandscapeEditor (189)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module ActorPickerMode (188)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module GeometryMode (187)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module TextureAlignMode (186)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module BspMode (185)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module PlacementMode (184)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module AutomationWorker (183)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module CharacterAI (182)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module SmartSnapping (181)
+[2016.02.03-05.35.47:150][619]LogModuleManager: Shutting down and abandoning module ViewportSnapping (180)
+[2016.02.03-05.35.47:151][619]LogModuleManager: Shutting down and abandoning module LogVisualizer (179)
+[2016.02.03-05.35.47:152][619]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (178)
+[2016.02.03-05.35.47:153][619]LogModuleManager: Shutting down and abandoning module IntroTutorials (177)
+[2016.02.03-05.35.47:155][619]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (176)
+[2016.02.03-05.35.47:155][619]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (175)
+[2016.02.03-05.35.47:156][619]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (174)
+[2016.02.03-05.35.47:156][619]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (173)
+[2016.02.03-05.35.47:475][619]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (172)
+[2016.02.03-05.35.47:475][619]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (171)
+[2016.02.03-05.35.47:475][619]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (170)
+[2016.02.03-05.35.47:475][619]LogModuleManager: Shutting down and abandoning module MergeActors (169)
+[2016.02.03-05.35.47:479][619]LogModuleManager: Shutting down and abandoning module SizeMap (168)
+[2016.02.03-05.35.47:479][619]LogModuleManager: Shutting down and abandoning module TreeMap (167)
+[2016.02.03-05.35.47:480][619]LogModuleManager: Shutting down and abandoning module ReferenceViewer (166)
+[2016.02.03-05.35.47:480][619]LogModuleManager: Shutting down and abandoning module LocalizationService (165)
+[2016.02.03-05.35.47:481][619]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (164)
+[2016.02.03-05.35.47:481][619]LogModuleManager: Shutting down and abandoning module HardwareTargeting (163)
+[2016.02.03-05.35.47:482][619]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (162)
+[2016.02.03-05.35.47:482][619]LogModuleManager: Shutting down and abandoning module UndoHistory (161)
+[2016.02.03-05.35.47:483][619]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (160)
+[2016.02.03-05.35.47:483][619]LogModuleManager: Shutting down and abandoning module UserFeedback (159)
+[2016.02.03-05.35.47:483][619]LogModuleManager: Shutting down and abandoning module XmlParser (158)
+[2016.02.03-05.35.47:483][619]LogModuleManager: Shutting down and abandoning module Blutility (157)
+[2016.02.03-05.35.47:483][619]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (156)
+[2016.02.03-05.35.47:483][619]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (155)
+[2016.02.03-05.35.47:483][619]LogModuleManager: Shutting down and abandoning module InputBindingEditor (154)
+[2016.02.03-05.35.47:485][619]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (153)
+[2016.02.03-05.35.47:485][619]LogModuleManager: Shutting down and abandoning module SettingsEditor (152)
+[2016.02.03-05.35.47:486][619]LogModuleManager: Shutting down and abandoning module ProjectLauncher (151)
+[2016.02.03-05.35.47:486][619]LogModuleManager: Shutting down and abandoning module SessionFrontend (150)
+[2016.02.03-05.35.47:487][619]LogModuleManager: Shutting down and abandoning module ProfilerClient (149)
+[2016.02.03-05.35.47:488][619]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (148)
+[2016.02.03-05.35.47:488][619]LogModuleManager: Shutting down and abandoning module DeviceManager (147)
+[2016.02.03-05.35.47:489][619]LogModuleManager: Shutting down and abandoning module AutomationController (146)
+[2016.02.03-05.35.47:489][619]LogModuleManager: Shutting down and abandoning module AutomationWindow (145)
+[2016.02.03-05.35.47:490][619]LogModuleManager: Shutting down and abandoning module Layers (144)
+[2016.02.03-05.35.47:493][619]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (143)
+[2016.02.03-05.35.47:493][619]LogModuleManager: Shutting down and abandoning module DetailCustomizations (142)
+[2016.02.03-05.35.47:493][619]LogModuleManager: Shutting down and abandoning module PackagesDialog (141)
+[2016.02.03-05.35.47:493][619]LogModuleManager: Shutting down and abandoning module Persona (140)
+[2016.02.03-05.35.47:496][619]LogModuleManager: Shutting down and abandoning module Kismet (139)
+[2016.02.03-05.35.47:497][619]LogModuleManager: Shutting down and abandoning module GraphEditor (138)
+[2016.02.03-05.35.47:497][619]LogModuleManager: Shutting down and abandoning module ClassViewer (137)
+[2016.02.03-05.35.47:497][619]LogModuleManager: Shutting down and abandoning module Toolbox (136)
+[2016.02.03-05.35.47:497][619]LogModuleManager: Shutting down and abandoning module ModuleUI (135)
+[2016.02.03-05.35.47:498][619]LogModuleManager: Shutting down and abandoning module MovieSceneTools (134)
+[2016.02.03-05.35.47:498][619]LogModuleManager: Shutting down and abandoning module OutputLog (133)
+[2016.02.03-05.35.47:498][619]LogModuleManager: Shutting down and abandoning module GammaUI (132)
+[2016.02.03-05.35.47:499][619]LogModuleManager: Shutting down and abandoning module Documentation (131)
+[2016.02.03-05.35.47:499][619]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (130)
+[2016.02.03-05.35.47:500][619]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (129)
+[2016.02.03-05.35.47:500][619]LogModuleManager: Shutting down and abandoning module AnalyticsET (128)
+[2016.02.03-05.35.47:500][619]LogModuleManager: Shutting down and abandoning module Analytics (127)
+[2016.02.03-05.35.47:500][619]LogModuleManager: Shutting down and abandoning module AITestSuite (126)
+[2016.02.03-05.35.47:500][619]LogModuleManager: Shutting down and abandoning module GameplayDebugger (125)
+[2016.02.03-05.35.47:501][619]LogModuleManager: Shutting down and abandoning module AIModule (124)
+[2016.02.03-05.35.47:501][619]LogModuleManager: Shutting down and abandoning module ProfilerService (123)
+[2016.02.03-05.35.47:696][619]LogModuleManager: Shutting down and abandoning module TaskGraph (122)
+[2016.02.03-05.35.47:698][619]LogModuleManager: Shutting down and abandoning module SlateRemote (121)
+[2016.02.03-05.35.47:698][619]LogModuleManager: Shutting down and abandoning module SteamVRController (120)
+[2016.02.03-05.35.47:698][619]LogModuleManager: Shutting down and abandoning module SteamVR (119)
+[2016.02.03-05.35.47:698][619]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (118)
+[2016.02.03-05.35.47:698][619]LogModuleManager: Shutting down and abandoning module OculusLibrary (117)
+[2016.02.03-05.35.47:698][619]LogModuleManager: Shutting down and abandoning module OculusInput (116)
+[2016.02.03-05.35.47:698][619]LogModuleManager: Shutting down and abandoning module LeapMotionController (115)
+[2016.02.03-05.35.47:717][619]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (114)
+[2016.02.03-05.35.47:717][619]LogModuleManager: Shutting down and abandoning module CableComponent (113)
+[2016.02.03-05.35.47:718][619]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (112)
+[2016.02.03-05.35.47:718][619]LogModuleManager: Shutting down and abandoning module MessagingDebugger (111)
+[2016.02.03-05.35.47:720][619]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (110)
+[2016.02.03-05.35.47:721][619]LogModuleManager: Shutting down and abandoning module HTML5Networking (109)
+[2016.02.03-05.35.47:721][619]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (108)
+[2016.02.03-05.35.47:721][619]LogModuleManager: Shutting down and abandoning module PluginBrowser (107)
+[2016.02.03-05.35.47:722][619]LogModuleManager: Shutting down and abandoning module EpicSurvey (106)
+[2016.02.03-05.35.47:722][619]LogModuleManager: Shutting down and abandoning module DesktopPlatform (105)
+[2016.02.03-05.35.47:723][619]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (104)
+[2016.02.03-05.35.47:723][619]LogModuleManager: Shutting down and abandoning module UObjectPlugin (103)
+[2016.02.03-05.35.47:723][619]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (102)
+[2016.02.03-05.35.47:724][619]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (101)
+[2016.02.03-05.35.47:726][619]LogModuleManager: Shutting down and abandoning module SourceControl (100)
+[2016.02.03-05.35.47:726][619]LogModuleManager: Shutting down and abandoning module GitSourceControl (99)
+[2016.02.03-05.35.47:726][619]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (98)
+[2016.02.03-05.35.47:726][619]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (97)
+[2016.02.03-05.35.47:726][619]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (96)
+[2016.02.03-05.35.47:726][619]LogModuleManager: Shutting down and abandoning module MeshPaint (95)
+[2016.02.03-05.35.47:726][619]LogModuleManager: Shutting down and abandoning module SlateReflector (94)
+[2016.02.03-05.35.47:727][619]LogModuleManager: Shutting down and abandoning module HotReload (93)
+[2016.02.03-05.35.47:727][619]LogModuleManager: Shutting down and abandoning module MainFrame (92)
+[2016.02.03-05.35.47:727][619]LogModuleManager: Shutting down and abandoning module LevelEditor (91)
+[2016.02.03-05.35.47:729][619]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (90)
+[2016.02.03-05.35.47:734][619]LogModuleManager: Shutting down and abandoning module AssetRegistry (89)
+[2016.02.03-05.35.47:811][619]LogModuleManager: Shutting down and abandoning module ContentBrowser (88)
+[2016.02.03-05.35.47:812][619]LogModuleManager: Shutting down and abandoning module Paper2DEditor (87)
+[2016.02.03-05.35.47:814][619]LogModuleManager: Shutting down and abandoning module UdpMessaging (86)
+[2016.02.03-05.35.47:914][619]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (85)
+[2016.02.03-05.35.47:914][619]LogModuleManager: Shutting down and abandoning module Paper2D (84)
+[2016.02.03-05.35.47:914][619]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (83)
+[2016.02.03-05.35.47:917][619]LogModuleManager: Shutting down and abandoning module Media (82)
+[2016.02.03-05.35.47:917][619]LogModuleManager: Shutting down and abandoning module WmfMedia (81)
+[2016.02.03-05.35.47:918][619]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2016.02.03-05.35.47:918][619]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (79)
+[2016.02.03-05.35.47:918][619]LogModuleManager: Shutting down and abandoning module PropertyEditor (78)
+[2016.02.03-05.35.47:918][619]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (77)
+[2016.02.03-05.35.47:920][619]LogModuleManager: Shutting down and abandoning module FunctionalTesting (76)
+[2016.02.03-05.35.47:920][619]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (75)
+[2016.02.03-05.35.47:921][619]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (74)
+[2016.02.03-05.35.47:921][619]LogModuleManager: Shutting down and abandoning module MessageLog (73)
+[2016.02.03-05.35.47:921][619]LogModuleManager: Shutting down and abandoning module Sequencer (72)
+[2016.02.03-05.35.47:921][619]LogModuleManager: Shutting down and abandoning module AssetTools (71)
+[2016.02.03-05.35.47:923][619]LogModuleManager: Shutting down and abandoning module UMGEditor (70)
+[2016.02.03-05.35.47:923][619]LogModuleManager: Shutting down and abandoning module UMG (69)
+[2016.02.03-05.35.47:923][619]LogModuleManager: Shutting down and abandoning module Slate (68)
+[2016.02.03-05.35.47:923][619]LogModuleManager: Shutting down and abandoning module EditorStyle (67)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module SessionServices (66)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (65)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (64)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module XAudio2 (63)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module Networking (61)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module Core (60)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module KismetCompiler (59)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module PhysXFormats (58)
+[2016.02.03-05.35.47:925][619]LogModuleManager: Shutting down and abandoning module MeshUtilities (57)
+[2016.02.03-05.35.47:926][619]LogModuleManager: Shutting down and abandoning module DerivedDataCache (56)
+[2016.02.03-05.35.47:994][619]LogDerivedDataCache: Shutdown
+[2016.02.03-05.35.47:994][619]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (55)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (54)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (53)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (52)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (51)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (50)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (49)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module ImageWrapper (48)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (47)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (46)
+[2016.02.03-05.35.47:995][619]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (45)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (44)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (43)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (42)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (41)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (40)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.02.03-05.35.47:996][619]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.02.03-05.35.47:997][619]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.02.03-05.35.47:997][619]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.02.03-05.35.47:997][619]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.02.03-05.35.47:997][619]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.02.03-05.35.47:997][619]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.02.03-05.35.47:997][619]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.02.03-05.35.49:498][619]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.02.03-05.35.49:504][619]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.02.03-05.35.49:505][619]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.02.03-05.35.49:505][619]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.02.03-05.35.49:506][619]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.02.03-05.35.49:506][619]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.02.03-05.35.49:506][619]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.02.03-05.35.49:521][619]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.02.03-05.35.49:521][619]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.02.03-05.35.49:521][619]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.02.03-05.35.49:521][619]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.02.03-05.35.49:521][619]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.02.03-05.35.49:521][619]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.02.03-05.35.49:521][619]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.02.03-05.35.49:522][619]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.02.03-05.35.49:522][619]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.02.03-05.35.49:522][619]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.02.03-05.35.49:525][619]LogExit: Exiting.
+[2016.02.03-05.35.49:529][619]Log file closed, 02/03/16 00:35:49
